@@ -1,1 +1,6 @@
 # tp2
+
+2)
+	f) i. Ya no puedo verlo en mi repo local pues el archivo pertenecía a (fue creado en) la segunda rama y yo, al moverme con git checkout main a la rama principal, no estará disponible para trabajarlo desde mi pc (a menos que haga un merge o cambie de rama).  
+	ii. Puedo observar visualmente la separación de las ramas main y opcion_2.
+	iii) Las ramas se unieron al usar el comando git merge Opcion_2 -m "merge opcion 2". Visualmente: se conectaron sus lineas.
